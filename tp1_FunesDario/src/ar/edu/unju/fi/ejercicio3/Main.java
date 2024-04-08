@@ -12,6 +12,7 @@ public class Main {
 			System.out.println(valor*3);
 		else
 			System.out.println(valor*2);
+		sc.close();
 	}
 
 }
